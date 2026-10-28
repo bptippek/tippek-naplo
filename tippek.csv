@@ -1,3 +1,4 @@
-datum,liga,hazai,vendeg,tipus,tipp,kod,iroda,odds,modell_p,piac_p,edge,naplozva,eredmeny,pontszam,profit,szint
-2026-10-25,La Liga,Ath Bilbao,Getafe,O/U 2.5,Under 2.5 goals,U,Bet365,1.62,0.785,0.583,0.109,2026-10-25 09:29,L,4-0,-1.0,
-2026-10-28,Serie A,Milan,Bologna,O/U 2.5,Under 2.5 goals,U,William Hill,2.0,0.573,0.483,0.057,2026-10-27 08:53,,,,A
+datum,liga,hazai,vendeg,tipus,tipp,kod,iroda,odds,modell_p,piac_p,edge,naplozva,eredmeny,pontszam,profit,szint,kezdes
+2026-10-25,La Liga,Ath Bilbao,Getafe,O/U 2.5,Under 2.5 goals,U,Bet365,1.62,0.785,0.583,0.109,2026-10-25 09:29,L,4-0,-1.0,,
+2026-10-28,Serie A,Milan,Bologna,O/U 2.5,Under 2.5 goals,U,William Hill,2.0,0.573,0.483,0.057,2026-10-27 08:53,,,,A,
+2026-10-30,Ligue 1,Nice,Rennes,1X2,Away win,A,William Hill,2.4,0.509,0.401,0.093,2026-10-28 09:26,,,,A,19:00
